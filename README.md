@@ -7,7 +7,7 @@ Funding from : Canada Research Chairs Programme
 
 This repository contains the code necessary to run the analyses presented in the paper 
 "Developing a comprehensive account of embodied emissions within the Canadian construction sector".
-The data itself can be found at: https://zenodo.org/record/8205913
+The data itself can be found at: [https://zenodo.org/record/10233490](https://zenodo.org/records/10233490)
 
 This repository contains 3 files: 
  - CanCons_OpenIO.py <br>
